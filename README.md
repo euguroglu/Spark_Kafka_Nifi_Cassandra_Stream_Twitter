@@ -1,6 +1,6 @@
-# Spark_Kafka_Stream_Twitter
+# Spark_Kafka_Nifi_Cassandra_Stream_Twitter
 ### Dataflow Pipeline
-![](pipeline_tweet.JPG)
+![](pipeline.JPG)
 
 ### Task List
 
